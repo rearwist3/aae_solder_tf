@@ -85,3 +85,5 @@ generate.py [-h] [--batch_size BATCH_SIZE] [--latent_dim LATENT_DIM]
                    [--nb_visualize_batch NB_VISUALIZE_BATCH] [--select_gpu SELECT_GPU]
                    ok_image_dir ng_image_dir
 ```
+
+* This code was written with reference to https://github.com/salty-vanilla/aae_tf.
