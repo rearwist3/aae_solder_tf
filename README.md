@@ -88,4 +88,4 @@ generate.py [-h] [--batch_size BATCH_SIZE] [--latent_dim LATENT_DIM]
 
 ### Credit
 
-* This repositry reuses most of the code in https://github.com/salty-vanilla/aae_tf.
+* This repository reuses most of the code in https://github.com/salty-vanilla/aae_tf.
