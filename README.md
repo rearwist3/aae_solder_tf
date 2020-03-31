@@ -86,6 +86,6 @@ generate.py [-h] [--batch_size BATCH_SIZE] [--latent_dim LATENT_DIM]
                    ok_image_dir ng_image_dir
 ```
 
-### Reference
+### Credit
 
-* This code was written with reference to https://github.com/salty-vanilla/aae_tf.
+* This repositry reuses most of the code in https://github.com/salty-vanilla/aae_tf.
